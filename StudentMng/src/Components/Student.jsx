@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = "http://localhost:3000/students";
+const API_URL = "https://backend-tmdg.vercel.app/students";
 
 function Students() {
 
